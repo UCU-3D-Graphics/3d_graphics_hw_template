@@ -1,5 +1,47 @@
-# 3D grapihcs homeworks template repository
+**Name/Surname**:
+**API**: 
+**Late days**: 0/7
 
-This repo contains a CMakeLists.txt file for the 3D graphics course. as well as some boilerplate for it, so as to simplify setting up the project.
+## How to build
 
-Use it to automatically fetch glm, glfw, assimp and stb.
+To build, just do
+
+```sh
+cmake -B build
+cmake --build build
+```
+
+## Notes
+
+This is a template repository that you should *probably* use for your 3d graphics course homework. 
+It should be a good basis for your projects)
+
+## HW1
+
+#### Basic features
+
+#### Additional Features
+
+## HW2
+
+#### Basic features
+
+#### Additional Features
+
+## HW3
+
+#### Basic features
+
+#### Additional Features
+
+## HW4
+
+#### Basic features
+
+#### Additional Features
+
+## HW5
+
+#### Basic features
+
+#### Additional Features
